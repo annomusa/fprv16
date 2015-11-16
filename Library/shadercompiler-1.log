@@ -1,0 +1,33 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-7460
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=4159 outsize=1016 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (67): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=3447 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: preprocess
+  insize=12815 outsize=2577 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (59): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=10254 outsize=0 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=0
+Cmd: preprocess
+  insize=2714 outsize=884 ok=1
+Cmd: preprocess
+  insize=11975 outsize=2458 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (56): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=9537 outsize=0 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=0
+Cmd: preprocess
+  insize=1802 outsize=526 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (28): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=1581 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=948 outsize=945 ok=1
+Cmd: preprocess
+  insize=840 outsize=837 ok=1
+Cmd: preprocess
+  insize=1364 outsize=1361 ok=1
+Cmd: preprocess
+  insize=1190 outsize=1187 ok=1
